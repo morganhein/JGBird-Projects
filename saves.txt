@@ -1,0 +1,5 @@
+Chaesatra,Elf,Ranger
+Berdan,Elf,Ranger
+Storm At Dusk,Tabaxi,Rogue
+Oogorim,Orc,Paladin
+Faye,Tiefling,Rogue
